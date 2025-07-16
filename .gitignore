@@ -1,5 +1,10 @@
-db/404.csv/
-db/429.csv/
-db/productInfo.csv/
+# Ignore specific CSV files
+db/404.csv
+db/429.csv
+db/productInfo.csv
+
+# Ignore Python cache
 py/__pycache__/
-sql/database.ini/
+
+# Ignore local database config
+sql/database.ini
