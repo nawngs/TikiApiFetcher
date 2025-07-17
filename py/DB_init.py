@@ -32,4 +32,4 @@ def executeSQLFile(filePath):
       print("Connection closed")
 
 if __name__ == "__main__":
-  executeSQLFile("sql/schema.sql")
+  executeSQLFile("sql/Schema.sql")
