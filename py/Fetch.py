@@ -94,7 +94,7 @@ if __name__ == "__main__":
     ids = [id for id in df['id'].values if id not in ids_done]
   except:
     ids = df['id'].values
-
+    
   ids = list(set(ids))
   np.random.shuffle(ids)
 
