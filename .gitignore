@@ -2,6 +2,7 @@
 db/404.csv
 db/429.csv
 db/productInfo.csv
+db/Success.csv
 
 # Ignore Python cache
 py/__pycache__/
