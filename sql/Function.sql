@@ -1,1 +1,1 @@
-SELECT COUNT(DISTINCT product_id) FROM products;
+SELECT * FROM Product;
